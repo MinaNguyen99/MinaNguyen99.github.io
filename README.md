@@ -1,7 +1,6 @@
 # Mina Nguyen's Portfolio
 
 ## Contact Information
-- **Name**: Mina Nguyen
 - **Phone**: 07547232157
 - **Email**: hamyftlift1@gmail.com
 - **LinkedIn**: [Mina Nguyen](https://www.linkedin.com/in/minanguyen8)
