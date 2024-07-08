@@ -1,4 +1,4 @@
-# Mina Nguyen's Portfolio
+# Data Engineer
 
 ## CONTACT INFORMATION
 - **Phone**: 07547232157
