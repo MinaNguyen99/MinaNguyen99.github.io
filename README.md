@@ -6,8 +6,7 @@
 - **[LinkedIn](https://www.linkedin.com/in/minanguyen8)**
 - **[GitHub](https://github.com/MinaNguyen99)**
 
-## SUMMARY
-Data Engineer with over one year of experience specialising in data pipeline ETL design and data security. Skilled in transforming complex datasets into actionable insights and delivering superior customer experiences. Seeking a Data Engineer position to apply my expertise in tackling complex challenges within diverse sectors.
+Python Developer with over one year of experience specializing in web development and data-driven solutions. Skilled in Python, Docker, AWS, and ETL processes. Seeking a Junior Python Developer role to apply my expertise and contribute to innovative projects.
 
 ## EDUCATION
 ### Sheffield Hallam University, UK
@@ -50,6 +49,12 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 - **Data Analysis and Visualization:** Ability to analyze and visualize data using tools like Tableau to provide stakeholder insights.
   
 ## COURSE PROJECTS
+### [Back-end Recipe Website](https://github.com/MinaNguyen99/recipe-app-api)
+**Jun 2023 – Oct 2024**
+- Developed and deployed an advanced recipe API using Django Rest Framework, enabling user profile management, object creation, and image uploading for storing and sharing recipes.
+- Implemented secure token-based authentication and conducted rigorous testing to ensure scalability and reliability of the API.
+
+
 ### [Classification of Vietnamese Articles](https://github.com/MinaNguyen99/Disertation-Vietnamese-NLP)
 **Nov 2023 – Jan 2024**
 - Developed and executed an ETL pipeline for extracting, cleaning, and transforming Vietnamese text data from Vietnam's top 25 newspapers dating back to 2022 to support machine learning model development
