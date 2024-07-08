@@ -1,8 +1,8 @@
 # DATA ENGINEER
 
 ## CONTACT INFORMATION
-- **Phone**: +44 7547232157
-- **Email**: hamyftlift1@gmail.com
+- +44 7547232157
+- hamyftlift1@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/minanguyen8)**
 - **[GitHub](https://github.com/MinaNguyen99)**
 
