@@ -54,10 +54,12 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 **Nov 2023 – Jan 2024**
 - Developed and executed an ETL pipeline for extracting, cleaning, and transforming Vietnamese text data from Vietnam's top 25 newspapers dating back to 2022 to support machine learning model development.
 - Achieved an F1 score of 91.18% in the development of SVM & XGBoost machine learning models for categorising Vietnamese news articles
+  
 ### [Evaluation of the Effect of Weather on US Aviation](https://github.com/MinaNguyen99/SHU-ADMP-FlightWeather)
 **Jun 2023 – Aug 2023**
 - Led a team of 6 members in understanding, collecting, and managing large flight and weather datasets (61M+ records) using ETL processes
 - Designed 5-star schemas in MS Access, created 5 data marts in Hive, and built 5 Tableau dashboards for robust aviation trend analysis, providing stakeholders with clear and actionable insights
+  
 ### [Human Activity Context Recognition](https://github.com/MinaNguyen99/SHU-DS-PCP)
  **Apr 2023 – May 2023**
 - Developed a sophisticated Python application for analysing and visualising activity context recognition, leveraging 20K sensor data
