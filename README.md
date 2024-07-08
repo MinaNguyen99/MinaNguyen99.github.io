@@ -72,7 +72,7 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 - Tableau 2024 A-Z: Hands-On Tableau Training for Data Science, Udemy
   
 ## AWARDS
-- 3-Year Academic Excellence Award in Computer Science, Hanoi University of Science, 2017 – 2020
+- 3-Year Academic Excellence Schoolarship in Computer Science, Hanoi University of Science, 2017 – 2020
 - 3rd Place in Scientific Research Award, Vietnam National University, 2021
 - Outstanding Academic and Ethical Performance, Hanoi University of Science, 2018
   
