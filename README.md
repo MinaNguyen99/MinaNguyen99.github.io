@@ -42,6 +42,7 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 - **Programming:** Python (1+ year), SQL (1+ year), Bash (1+ year), Java.
 - **Applications & Tools:** Microsoft Azure, Hadoop, PostgreSQL, MySQL, MS Excel, Docker, GitHub, RStudio, Agile.
 - **Other Skills:** Data Management, IT Security, Product Development/Engineering, Report Generation, Change Management
+  
 ## DATA ENGINEER SKILLS
 - **Data Pipelines (ETL):** Experience with designing, building, and managing data pipelines for data extraction, transformation, and loading. (Tools: Microsoft Azure Synapse)
 - **Data Warehousing:** Familiarity with data warehousing concepts and tools like Hadoop for storing and managing large datasets.
