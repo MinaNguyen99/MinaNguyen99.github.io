@@ -1,4 +1,4 @@
-# Data Engineer
+# DATA ENGINEER
 
 ## CONTACT INFORMATION
 - **Phone**: 07547232157
@@ -62,15 +62,18 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
  **Apr 2023 – May 2023**
 - Developed a sophisticated Python application for analysing and visualising activity context recognition, leveraging 20K sensor data
 - Attained a high accuracy of 98.1% in human activities prediction by implementing and fine-tuning six machine learning models, such as SVM and MLP
+  
 ## COMPLETED ONLINE COURSES
 - Microsoft Azure Data Engineer Associate (DP-203)
 - The Complete Machine Learning Course with Python, Udemy
 - Data Warehouse - The Ultimate Guide, Udemy
 - Tableau 2024 A-Z: Hands-On Tableau Training for Data Science, Udemy
+  
 ## AWARDS
 - 3-Year Academic Excellence Award in Computer Science, Hanoi University of Science, 2017 – 2020
 - 3rd Place in Scientific Research Award, Vietnam National University, 2021
 - Outstanding Academic and Ethical Performance, Hanoi University of Science, 2018
+  
 ## VOLUNTEER EXPERIENCE
 - Volunteer, Vietnam Culture Day Project (Vietsoc Society), 2024
 - Participant, Mosquito Eradication Campaign (Vietnam National University), 2019
