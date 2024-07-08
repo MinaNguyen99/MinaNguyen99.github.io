@@ -49,7 +49,7 @@ Python Developer with over one year of experience specializing in web developmen
 - **Data Analysis and Visualization:** Ability to analyze and visualize data using tools like Tableau to provide stakeholder insights.
   
 ## COURSE PROJECTS
-### [Back-end Recipe Website](https://github.com/MinaNguyen99/recipe-app-api)
+### [Advanced Recipe API Project](https://github.com/MinaNguyen99/recipe-app-api)
 **Jun 2023 – Oct 2024**
 - Developed and deployed an advanced recipe API using Django Rest Framework, enabling user profile management, object creation, and image uploading for storing and sharing recipes.
 - Implemented secure token-based authentication and conducted rigorous testing to ensure scalability and reliability of the API.
