@@ -1,7 +1,7 @@
 # DATA ENGINEER
 
 ## CONTACT INFORMATION
-- **Phone**: 07547232157
+- **Phone**: +44 7547232157
 - **Email**: hamyftlift1@gmail.com
 - **[LinkedIn](https://www.linkedin.com/in/minanguyen8)**
 - **[GitHub](https://github.com/MinaNguyen99)**
@@ -9,6 +9,19 @@
 ## SUMMARY
 Data Engineer with over one year of experience specialising in data pipeline ETL design and data security. Skilled in transforming complex datasets into actionable insights and delivering superior customer experiences. Seeking a Data Engineer position to apply my expertise in tackling complex challenges within diverse sectors.
 
+## EDUCATION
+### Sheffield Hallam University, UK
+### MSc Big Data Analytics
+**Jan 2023 – Jan 2024**
+- **Relevant Modules**: Data Management (70%), Big Data and Distributed Systems (70%), Applied Machine Learning (82%).
+- **Overall grade: 70%, Distinction**
+
+### Vietnam National University, VN
+### BSc Computer Science 
+**Sep 2017 – June 2022**
+- **Relevant Modules**: Python and Object-oriented Programming (90%), Probability and Statistics Modeling (90%).
+- **Overall grade: 82%,  equivalent to 1st**
+  
 ## PROFESSIONAL EXPERIENCE
 ### Sotatek JSC
 **Aug 2021 – Oct 2022**
@@ -25,34 +38,21 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 - Top-performing member of a 5-member intern team, contributing to improved data quality for machine learning models through data cleaning and preprocessing techniques
 - Improved data quality by 75% for machine learning models through meticulous data cleaning and preprocessing techniques, enabling a 20% reduction in training time for our character and object detection models (DBScan & K-means) built with OpenCV, NumPy, Pandas, Scikit-learn, and Matplotlib
 
-## EDUCATION
-### Sheffield Hallam University, UK
-### MSc Big Data Analytics
-**Jan 2023 – Jan 2024**
-- **Relevant Modules**: Data Management (70%), Big Data and Distributed Systems (70%), Applied Machine Learning (82%).
-- **Overall grade**: Overall grade: Distinction(70/100).
-
-### Vietnam National University, VN
-### BSc Computer Science 
-**Sep 2017 – June 2022**
-- **Relevant Modules**: Python and Object-oriented Programming (90%), Probability and Statistics Modeling (90%).
-- **Ranked 2nd graduated GPA (3.3/4.0).**
-
 ## TECHNICAL SKILLS
 - **Programming:** Python (1+ year), SQL (1+ year), Bash (1+ year), Java.
 - **Applications & Tools:** Microsoft Azure, Hadoop, PostgreSQL, MySQL, MS Excel, Docker, GitHub, RStudio, Agile.
 - **Other Skills:** Data Management, IT Security, Product Development/Engineering, Report Generation, Change Management
   
 ## DATA ENGINEER SKILLS
-- **Data Pipelines (ETL):** Experience with designing, building, and managing data pipelines for data extraction, transformation, and loading. (Tools: Microsoft Azure Synapse)
+- **Data Pipelines (ETL):** Experience designing, building, and managing data pipelines for data extraction, transformation, and loading. (Tools: Microsoft Azure Synapse)
 - **Data Warehousing:** Familiarity with data warehousing concepts and tools like Hadoop for storing and managing large datasets.
 - **Data Security:** Experience implementing secure data access controls and authentication protocols. (e.g., token-based authentication)
-- **Data Analysis and Visualization:** Ability to analyze and visualize data using tools like Tableau to provide insights to stakeholders.
+- **Data Analysis and Visualization:** Ability to analyze and visualize data using tools like Tableau to provide stakeholder insights.
   
 ## COURSE PROJECTS
 ### [Classification of Vietnamese Articles](https://github.com/MinaNguyen99/Disertation-Vietnamese-NLP)
 **Nov 2023 – Jan 2024**
-- Developed and executed an ETL pipeline for extracting, cleaning, and transforming Vietnamese text data from Vietnam's top 25 newspapers dating back to 2022 to support machine learning model development.
+- Developed and executed an ETL pipeline for extracting, cleaning, and transforming Vietnamese text data from Vietnam's top 25 newspapers dating back to 2022 to support machine learning model development
 - Achieved an F1 score of 91.18% in the development of SVM & XGBoost machine learning models for categorising Vietnamese news articles
   
 ### [Evaluation of the Effect of Weather on US Aviation](https://github.com/MinaNguyen99/SHU-ADMP-FlightWeather)
