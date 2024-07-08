@@ -65,7 +65,7 @@ Data Engineer with over one year of experience specialising in data pipeline ETL
 - Developed a sophisticated Python application for analysing and visualising activity context recognition, leveraging 20K sensor data
 - Attained a high accuracy of 98.1% in human activities prediction by implementing and fine-tuning six machine learning models, such as SVM and MLP
   
-## COMPLETED ONLINE COURSES
+## CERTIFICATES
 - Microsoft Azure Data Engineer Associate (DP-203)
 - The Complete Machine Learning Course with Python, Udemy
 - Data Warehouse - The Ultimate Guide, Udemy
